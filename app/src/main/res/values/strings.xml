@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DrawableResourceDemo</string>
+    <string name="action_settings">Settings</string>
+</resources>
